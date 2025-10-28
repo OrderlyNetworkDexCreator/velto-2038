@@ -15,7 +15,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_WALLETCONNECT_PROJECT_ID": "3a791fb6b63cf9e736ce731f00ec0c2d",
   "VITE_APP_NAME": "Velto",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
-  "VITE_HAS_PRIMARY_LOGO": "false",
+  "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Vaults,Swap,Markets",
   "VITE_CUSTOM_MENUS": "",
