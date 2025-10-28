@@ -40,8 +40,8 @@
   --oui-color-base-5: 59 59 59;
   --oui-color-base-6: 31 31 31;
   --oui-color-base-7: 59 59 59;
-  --oui-color-base-8: 59 59 59;
-  --oui-color-base-9: 31 31 31;
+  --oui-color-base-8: 31 31 31;
+  --oui-color-base-9: 22 22 22;
   --oui-color-base-10: 3 3 3;
 
   --oui-color-base-foreground: 255 255 255;
@@ -82,8 +82,8 @@
   --oui-rounded: 4px;
   --oui-rounded-md: 6px;
   --oui-rounded-lg: 8px;
-  --oui-rounded-xl: 12px;
-  --oui-rounded-2xl: 16px;
+  --oui-rounded-xl: 10px;
+  --oui-rounded-2xl: 12px;
   --oui-rounded-full: 9999px;
 
   /* spacing */
