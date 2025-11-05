@@ -31,7 +31,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "@VeltoApp",
   "VITE_SEO_THEME_COLOR": "#161616",
   "VITE_SEO_KEYWORDS": "crypto trading, buy crypto, token swap, peer-to-peer trading, low fee trading, secure platform, liquidity, blockchain trading, swap tokens, altcoins",
-  "VITE_AVAILABLE_LANGUAGES": "",
+  "VITE_AVAILABLE_LANGUAGES": "en",
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00C896\",\"downColor\":\"#F7525F\",\"pnlUpColor\":\"#00C896\",\"pnlDownColor\":\"#F7525F\",\"chartBG\":\"#161616\"}"
