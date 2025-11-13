@@ -30,7 +30,7 @@
   --oui-color-warning-darken: 255 152 0;
   --oui-color-warning-contrast: 255 255 255;
 
-  --oui-color-fill: 31 31 31;
+  --oui-color-fill: 59 59 59;
   --oui-color-fill-active: 31 31 31;
 
   --oui-color-base-1: 115 115 115;
@@ -97,10 +97,4 @@
 html, body {
   font-family: 'Fira Sans', sans-serif !important;
   font-size: 16px !important;
-}
-
-
-/* Target all buttons within the Position history element */ 
-#radix-\:r6b\:-content-Position\ history button { 
-  background-color: #3b82f6 !important; 
 }
