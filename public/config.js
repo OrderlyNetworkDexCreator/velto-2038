@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/VeltoApp",
   "VITE_SEO_SITE_NAME": "velto",
   "VITE_SEO_SITE_DESCRIPTION": "velto is a secure, decentralized platform made for advanced crypto trading. Experience low fees, high liquidity, and true control of your assets",
-  "VITE_SEO_SITE_URL": "https://app.velto.com",
+  "VITE_SEO_SITE_URL": "https://bld-foggy-harbor.velto.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@VeltoApp",
