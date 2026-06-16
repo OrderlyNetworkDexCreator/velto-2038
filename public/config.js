@@ -39,6 +39,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00C896\",\"downColor\":\"#F7525F\",\"pnlUpColor\":\"#00C896\",\"pnlDownColor\":\"#F7525F\",\"chartBG\":\"#161616\"}",
   "VITE_ANALYTICS_SCRIPT": "",
   "VITE_SYMBOL_LIST": "",
-  "VITE_RESTRICTED_REGIONS": "",
+  "VITE_RESTRICTED_REGIONS": "Puerto Rico,Guam,U.S. Virgin Islands,American Samoa,Northern Mariana Islands,Ukraine,North Korea,Syria,Myanmar,Cuba,Somalia,Iran,Belarus,Democratic Republic of the Congo,Republic of the Congo,United Arab Emirates,United States,China,China - Hong Kong,China - Macao,Russia,Afghanistan,South Sudan,Sudan,Yemen,Venezuela,Iraq,Libya",
   "VITE_WHITELISTED_IPS": ""
 };
